@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hello everyone!
+This is the account of a small simple intermediary service project between the REST API of different vendors and clients.
+
 <!--
 **SimpleBinder/SimpleBinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
